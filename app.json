@@ -22,35 +22,35 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "7186894335:AAFJadSIW_H2v0VupMB4iie3ydxUWIFDH3Q"
+      "value": ""
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "24954614"
+      "value": ""
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "854d71e266722a054d214898c754c70b"
+      "value": ""
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url from mongodb.com",
-      "value": "mongodb+srv://jeetnarayantiwari5:FGXfMWTnAsaEB4u2@cluster0.2whtu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+      "value": ""
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": "-1002307520042"
+      "value": ""
     },
     "UPDATES_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel ID",
-      "value": "-1002465012720"
+      "value": ""
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "-1005716292248"
+      "value": ""
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": "Jaishreeramssbot"
+      "value": ""
     }
   },
   "addons": [
